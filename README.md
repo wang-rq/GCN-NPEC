@@ -30,10 +30,9 @@ python train.py -p Pkl/***.pkl
 ```
 
 Plot prediction of the trained model
-(in this example, batch size is 128, number of customer nodes is 50)
 
 ```
-python plot.py -p Weights/***.pt(or ***.h5) -b 128 -n 50
+python plot.py -p Weights/***.pt -b 128 -n 20
 ```
 
 ## Reference
