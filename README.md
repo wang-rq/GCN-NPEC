@@ -1,6 +1,6 @@
 # GCN-NPEC in PyTorch
 
-by Xiaochun WU & Ruoqi WANG
+###### By Xiaochun WU & Ruoqi WANG
 
 PyTorch implementation of **Efficiently Solving the Practical Vehicle Routing Problem: A
 Novel Joint Learning Approach (KDD'20)**
